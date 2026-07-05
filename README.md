@@ -42,17 +42,12 @@ SentinelScan scans a target folder, fingerprints every file with SHA-256, and ch
 
 ## 🖥️ Screenshots
 
-> _Add your own screenshots here before publishing — e.g. terminal scan output and the dashboard view._
+**Terminal scan output:**
+<img width="1918" height="1198" alt="Screenshot 2026-07-05 105457" src="https://github.com/user-attachments/assets/2f24b380-9d38-44b4-90b1-bb0cfa63bc3e" />
 
-```
-[ <img width="1918" height="1198" alt="Screenshot 2026-07-05 105457" src="https://github.com/user-attachments/assets/92f82aea-6582-436b-9c85-a8b74c832c50" />
-Sc<img width="1918" height="1198" alt="Screenshot 2026-07-05 105457" src="https://github.com/user-attachments/assets/37d6665b-c03b-4f08-a495-302431316e24" />
-reenshot: terminal output of a scan with a detection ]
-<img width="1918" height="1198" alt="output-image" src="https://github.com/user-attachments/assets/80d12f2d-d18c-4bd7-985e-358890242ecc" />
 
-[ Screenshot:<img width="1918" height="1198" alt="output-image" src="https://github.com/user-attachments/assets/737272d3-7ba8-40d2-afc0-80d0b2f837a3" />
- dashboard.html showing detection history ]
-```
+**Dashboard view:**
+<img width="1918" height="1198" alt="output-image" src="https://github.com/user-attachments/assets/3667115b-b354-4d39-9e7c-6be99afbbafd" />
 
 ## 📁 Project Structure
 
