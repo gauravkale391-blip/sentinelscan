@@ -1,0 +1,7 @@
+{
+  "_comment": "SHA-256 signatures of known 'malicious' files. The EICAR hash below is the real, industry-standard antivirus test file signature (harmless text file used to safely test AV detection). The other two entries are placeholder/example hashes for demonstration only.",
+  "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f": "EICAR-Test-File (standard AV test signature)",
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b85": "Example-Malware-Signature-1 (demo only)",
+  "44d88612fea8a8f36de82e1278abb02f1c3e2ee5d2f3e2e8b4c4a7c5e6f2a3b1": "Example-Malware-Signature-2 (demo only)",
+  "f0009d82d3a84b8d4024b441ad6392638d54da097a5d27cf882769152edd5941":"my-perfect-test-signature"
+}
